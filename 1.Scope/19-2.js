@@ -1,0 +1,12 @@
+var a;
+var b;
+a;
+console.log("a", a);
+b;
+console.log("b", b);
+a = b;
+b = 2;
+b;
+console.log("b", b);
+a;
+console.log("a", a);
